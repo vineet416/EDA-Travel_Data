@@ -1,5 +1,5 @@
 # EDA-Travel: Travel Package Customer Analysis
-
+ 
 Exploratory data analysis of 4,888 travel-agency customer records to find who buys a travel package (`ProdTaken`).
 The notebook cleans the data, explores it with charts, and prepares features for a future prediction model.
 Overall, 18.8% of contacted customers (920 of 4,888) bought a package.
